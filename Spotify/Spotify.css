@@ -354,7 +354,12 @@ i
     height: 12px; 
 }
 
-#but1 :hover button{
-    background-color: red;
+#but1:hover {
+    transform: scale(1.1);
 
+}
+
+#but2:hover {
+    background-color: #2DE26D;
+    transform: scale(1.1);
 }
